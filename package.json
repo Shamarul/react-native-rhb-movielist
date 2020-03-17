@@ -1,0 +1,14 @@
+{
+  "name": "react-native-rhb-movielist",
+  "version": "1.0.0",
+  "description": "rhbmovielist",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shamarul",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
+}
